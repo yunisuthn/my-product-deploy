@@ -1,0 +1,84 @@
+.container{
+  background-color: lightgrey;
+  
+}
+table {
+  width: 650px;
+  border-width:1px; 
+  border-style:solid; 
+  border-color:black;
+  text-align : center; 
+  margin-top:  50px;   
+}
+.form{
+  margin-top:  50px; 
+}
+th { 
+  border-width:1px;
+  border-style:solid; 
+  background-color:rgb(23, 192, 207);
+  width:15%;
+}
+td { 
+  border-width:1px;
+  border-style:solid; 
+  width:15%;
+}
+.total{
+  margin-left: 550px;
+  margin-top: 20px;
+}
+
+label{
+  margin: 10px
+}
+
+.ajout{
+  margin: 15px
+}
+.erreur{
+  color: red;
+  margin-left: 50px; 
+}
+.erreur1{
+  color: red;
+}
+.prix{
+  text-align: right;
+}
+.edit{
+  background-color: rgb(154, 151, 156);
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+  height: 150px;
+}
+.input{
+  margin-top: 30px;
+}
+.boutton1{
+  margin-top: 30px;
+  margin-right: 80px;
+  border-radius:8px;
+  background-color: rgb(223, 154, 189);
+}
+.boutton2{
+  margin-top: 30px;
+  border-radius:8px;
+  background-color:rgb(223, 154, 189);
+}
+.boutton3{
+  margin-right: 80px;
+  border-radius:8px;
+  background-color: rgb(223, 154, 189);
+}
+.boutton4{
+  border-radius:8px;
+  background-color:rgb(223, 154, 189);
+}
+.ariary{
+  border-style: solid;
+  width: 200px;
+  margin-left: 450px;
+  margin-top: 20px;
+}
